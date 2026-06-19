@@ -1,0 +1,5 @@
+[time] Error:username is empty
+[time] Error:email is empty
+[2026-06-11 11:20:19] Error:email is empty
+[2026-06-11 11:20:28] Error:email is empty
+[2026-06-11 11:20:29] Error:email is empty
